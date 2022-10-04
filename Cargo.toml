@@ -3,6 +3,6 @@ name = "hax"
 version = "0.0.0"
 edition = "2021"
 description = "Cross platform memory hacking library written in Rust."
-licenses = "MIT"
+license = "MIT"
 
 [dependencies]
